@@ -7,7 +7,7 @@ I've tried to restore my homepages from [over](https://wvbe.github.io/0xee-site/
 [the](https://wvbe.github.io/poseidon-site/) [last](https://wvbe.github.io/three-one-site/)
 [few](http://wyb.be/) [years](http://wybe.pizza).
 
-Have fun, you pervert.
+Have fun, you pervert. If you have any questions, [please submit a ticket](https://github.com/wvbe/wvbe/issues/new).
 
 [github]: https://github.com/wvbe
 [npmjs]: https://www.npmjs.com/~wvbe

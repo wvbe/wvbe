@@ -1,23 +1,18 @@
 {
-  "name": "wvbe",
-  "version": "1.0.0",
-  "description": "My name is Wybe, I am a Netherlands-based person in the professional internet spheres. I have been with\r [Fonto](https://fontoxml.com) since we began as a startup, initially as an interaction designer and later as a\r developer, trainer and currently as product owner.\r [My LinkedIn profile would tell you more](https://www.linkedin.com/in/wybeminnebo/).",
-  "main": "makeGithubPagesList.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wvbe/wvbe.git"
-  },
-  "keywords": [],
-  "author": "wvbe",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/wvbe/wvbe/issues"
-  },
-  "homepage": "https://github.com/wvbe/wvbe#readme",
-  "dependencies": {
-    "node-fetch": "^2.6.1"
-  }
+	"name": "wvbe",
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/wvbe/wvbe.git"
+	},
+	"keywords": [],
+	"author": "wvbe",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/wvbe/wvbe/issues"
+	},
+	"homepage": "https://github.com/wvbe/wvbe#readme",
+	"dependencies": {
+		"node-fetch": "^2.6.1"
+	}
 }
