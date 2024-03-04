@@ -1,5 +1,5 @@
 **Do you have a CV?**
-Just my [LinkedIn profile](https://www.linkedin.com/in/wybe).
+There's a PDF [on my homepage](https://wy.be) but [you probably want my LinkedIn profile](https://www.linkedin.com/in/wybe).
 
 **Are you open to new opportunities?**
 Always, but I am _not open_ for a 📞 call. Please [submit a ticket](https://github.com/wvbe/wvbe/issues/new) or send me a message via LinkedIn.
